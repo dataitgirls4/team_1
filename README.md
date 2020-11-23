@@ -1,6 +1,10 @@
 ## 데잇걸즈 데모데이 이터레이션 1조 - emptylist
 - 박예슬, 여지영, 오수희, 최윤정, 최이정
 ---
+### 유의사항
+* 깃헙에서는 파일 수정 시도를 하지 말아주세요. (예. 마크다운 바꿔야지)
+* 각자 만드시는 파일명은 수정하는 경우 깃에서 다른 파일로 인식합니다. 파일명은 고정불변
+
 ### Sourcetree와 Github를 활용한 협업 기본과정
 1. Sourcetree에서 clone from URL을 시행합니다. https://github.com/dataitgirls4/team_1.git
 2. Branches가 'main' 상태임을 확인하고 나의 새 브랜치를 생성합니다. [Branch]
